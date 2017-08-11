@@ -1,0 +1,11 @@
+{
+	"name": "librus",
+	"version": 1.0,
+	"startup": "librus.js",
+	"help": [
+		["{{commandPrefix}}sn", "Szczęśliwy numerek", "Wyświetl aktualny szczęścliwy numerek pobrany z Librusa"]
+		["{{commandPrefix}}jutro", "Lista dzisiejszych lekcji", "Wyświetl listę dzisiejszych lekcji w jednej linijcie (wraz z godziną rozpoczęcia) pobanych z Librusa"]
+		["{{commandPrefix}}dzisiaj", "Lista jutrzejszych lekcji", "Wyświetl listę jutrzejszych lekcji w jednej linijcie (wraz z godziną rozpoczęcia) pobanych z Librusa"]
+		["{{commandPrefix}}terminarz", "Terminarz", "Pobierz z Librusa terminarz na następne 3 tygodnie i wyświetl w odpowiedniej formie tekstowej. Przyjmuje argument w postaci daty!"]
+	]
+}
